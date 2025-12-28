@@ -1,0 +1,51 @@
+00:36:46.898 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\opencartV12\master.xml"
+00:36:47.330 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\opencartV12\master.xml
+
+00:37:00.504 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*******
+00:37:00.570 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on My account
+00:37:00.795 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register
+00:37:03.440 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+00:37:05.839 [main] INFO  testCases.TC001_AccountRegistrationTest - ******finished TC001_AccountRegistrationTest*****
+00:37:09.583 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_LoginTest******** 
+00:37:11.796 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest*******
+13:03:33.775 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\opencartV12\master.xml"
+13:03:48.141 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*******
+13:03:48.236 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on My account
+13:03:48.426 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register
+13:03:51.558 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+13:03:51.613 [main] INFO  testCases.TC001_AccountRegistrationTest - ******finished TC001_AccountRegistrationTest*****
+13:03:54.980 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_LoginTest******** 
+13:03:57.047 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest*******
+13:14:00.493 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\opencartV12\master.xml"
+13:14:05.034 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*******
+13:14:05.096 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on My account
+13:14:05.301 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register
+13:14:08.144 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+13:14:08.211 [main] INFO  testCases.TC001_AccountRegistrationTest - ******finished TC001_AccountRegistrationTest*****
+13:14:11.547 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_LoginTest******** 
+13:14:13.738 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest*******
+13:21:12.806 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\opencartV12\master.xml"
+13:21:16.940 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*******
+13:21:16.993 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on My account
+13:21:17.251 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register
+13:21:21.038 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+13:21:21.117 [main] INFO  testCases.TC001_AccountRegistrationTest - ******finished TC001_AccountRegistrationTest*****
+13:21:24.729 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_LoginTest******** 
+13:21:26.828 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest*******
+13:21:54.450 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\opencartV12\master.xml"
+13:21:58.364 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*******
+13:21:58.422 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on My account
+13:21:58.604 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register
+13:22:01.649 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+13:22:01.723 [main] INFO  testCases.TC001_AccountRegistrationTest - ******finished TC001_AccountRegistrationTest*****
+13:22:05.676 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_LoginTest******** 
+13:22:08.170 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest*******
+13:22:49.523 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\LENOVO\eclipse-workspace\opencartV12\master.xml"
+13:22:54.679 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest*******
+13:22:54.738 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on My account
+13:22:54.936 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on register
+13:22:58.593 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+13:22:58.710 [main] INFO  testCases.TC001_AccountRegistrationTest - ******finished TC001_AccountRegistrationTest*****
+13:23:02.331 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_LoginTest******** 
+13:23:04.616 [main] INFO  testCases.TC002_LoginTest - *****Finished TC002_LoginTest*******
